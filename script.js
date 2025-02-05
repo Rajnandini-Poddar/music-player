@@ -82,7 +82,7 @@ const music_list = [
         music : 'music/Main Pal Do Pal Ka Shair Hoon.mp3'
     },
     {
-        img : 'images/HymnForTheWeekend.jpg',
+        img : 'images/HymnfortheWeekend.jpg',
         name : 'Hymn For The Weekend',
         artist : 'Coldplay',
         music : 'music/Hymn for the Weekend.mp3'
