@@ -85,7 +85,7 @@ const music_list = [
         img : 'images/HymnForTheWeekend.jpg',
         name : 'Hymn For The Weekend',
         artist : 'Coldplay',
-        music : 'music/Hymn For The Weekend.mp3'
+        music : 'music/Hymn for the Weekend.mp3'
     }
 ];
 
